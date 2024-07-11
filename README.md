@@ -1,1 +1,1 @@
-It involves two distinct image stitching codes written using OpenCV in Python scripts, first one concering panaroma stitch, meanwhile the second caters to any directional stitch. 
+Two codes for image stitching using OpenCV in Python Scripts, first serves horizontally, second serves in general stitching. Backed by a camera calibration code to check for coords on the basis of image inputs. 
